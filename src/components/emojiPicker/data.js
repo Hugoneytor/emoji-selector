@@ -1,6 +1,6 @@
 const data = [
   {
-    symbol: "❤",
+    symbol: "🧡",
     name: "Heart",
     keyWords: "corazon heart red love"
   },
